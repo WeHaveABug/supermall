@@ -64,6 +64,7 @@ export default {
 <style scoped>
 .img_box {
   width: 100%;
+  
 }
 @import "./style.css";
 </style>

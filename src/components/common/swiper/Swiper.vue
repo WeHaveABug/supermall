@@ -206,10 +206,14 @@ export default {
 #hy-swiper {
   overflow: hidden;
   position: relative;
+  
+  
 }
 .swiper {
   display: flex;
   width: 100%;
+  
+  
 }
 .indicator {
   display: flex;
@@ -217,6 +221,7 @@ export default {
   position: absolute;
   width: 100%;
   bottom: 8px;
+  
 }
 .indi-item {
   box-sizing: border-box;
@@ -228,6 +233,7 @@ export default {
   text-align: center;
   font-size: 12px;
   margin: 0 5px;
+  
 }
 .indi-item.active {
   background-color: rgba(212, 62, 46, 1);
